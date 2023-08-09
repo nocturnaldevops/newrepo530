@@ -1,0 +1,10 @@
+Linux and Shell
+Git and Github
+Jenkins
+Maven
+Docker
+Kubernetes
+Ansible
+Terraform 
+AWS
+Azure
