@@ -10,3 +10,5 @@ AWS
 Azure
 Prometheus 
 Grafana
+Sonarqube
+Jfrog
